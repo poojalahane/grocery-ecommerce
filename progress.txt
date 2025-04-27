@@ -1,0 +1,6 @@
+1. create a react setup and integrate with tailwind
+2. after creating project  setup create footer exact like youtube lecture
+3. create a footer exact like freshgo website
+4. create a product details page exact like freshgo website
+5. create a category compnent
+6. create a filter compnent
